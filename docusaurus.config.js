@@ -102,6 +102,12 @@ const config = {
         ],
       },
       footer: {
+        logo: {
+          alt: 'CNCF Logo',
+          src: 'img/cncf_logo_white.svg',
+          href: 'https://www.cncf.io/',
+          width: 160,
+        },
         style: 'dark',
         links: [
           {
