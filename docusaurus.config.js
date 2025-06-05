@@ -94,8 +94,9 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/status', label: 'Status', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/open-telemetry',
             label: 'GitHub',
             position: 'right',
           },
